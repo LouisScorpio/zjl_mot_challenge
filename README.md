@@ -15,7 +15,7 @@ The code can be runnning with Python 3.5. The following dependencies are needed:
 
 ## Installation
 First, clone the repository:
-`git clone https://github.com/nwojke/deep_sort.git`
+`git clone https://github.com/LouisScorpio/zjl_mot_challenge.git`
 
 Then, download pre-trained models from [here](https://drive.google.com/open?id=1UboRIVsQP94J7NssxbcXpgIicEXTxxrH) and put it in '/networks'.
 
